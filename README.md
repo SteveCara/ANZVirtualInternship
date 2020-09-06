@@ -1,6 +1,6 @@
 # ANZ Virtual Internship - Banking Predictive Analytics: Project Overview
 
-Undertook exploratory data analysis obtain key insights from transaction sample data for Asutralia and New Zealand Banking Group (ANZ). Created linear regression and decision-tree models to predict salaries. The generated predictions were 50% more accurate than the decision tree used in the ANZ model solution. 
+Undertook exploratory data analysis obtain key insights from transaction sample data for Australia and New Zealand Banking Group (ANZ). Created linear regression and decision-tree models to predict salaries. The generated predictions were 50% more accurate than the decision tree used in the ANZ model solution. 
 
 - Undertook exploratory data analysis to derive insights from sample transaction data for Australia and New Zealand Banking Group (ANZ)
 
