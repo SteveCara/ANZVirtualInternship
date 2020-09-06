@@ -38,12 +38,13 @@ Undertook exploratory data analysis obtain key insights from transaction sample 
 
 Some highlights are below.
 
-![image](/images/transactionheatmap.PNG)
+**Transaction Heatmap (Density ~ Total Transaction Amount)**
+![image](/images/transactionheatmap.png)
 
-![image](/images/correlation.PNG)
-
+**Daily Transactions - Full Observation Period**
 ![image](/images/dailytra.PNG)
 
+**Hourly Transactions - Average Day**
 ![image](/images/hourlytra.PNG)
 
 
@@ -61,8 +62,13 @@ For this stage I was tasked with creating a predictive model to estimate salary 
 
 Some highlights are below.
 
+**Numeric Feature Correlations**
 ![image](/images/salheatmap.PNG)
+
+**Boxplot of Calculated Salaries**
 ![image](/images/salboxplot.PNG)
+
+**
 ![image](/images/datatiles.PNG)
 
 ## Reporting
