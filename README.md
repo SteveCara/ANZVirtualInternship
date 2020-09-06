@@ -68,7 +68,7 @@ Some highlights are below.
 **Boxplot of Calculated Salaries**
 ![image](/images/salboxplot.PNG)
 
-**
+**Key Insights**
 ![image](/images/datatiles.PNG)
 
 ## Reporting
