@@ -4,7 +4,9 @@ Undertook exploratory data analysis obtain key insights from transaction sample 
 
 - Undertook exploratory data analysis to derive insights from sample transaction data for Australia and New Zealand Banking Group (ANZ)
 
-- Completed data segmentation and visualisation to show the relationships between different features 
+- Converted the dataset into a timeseries to facilitate time series analysis with different levels of granularity
+
+- Carried out data segmentation and visualisation to show the relationships between different features 
 
 - Explored the correlation between different customer attributes to identify suitable metrics to be included in a predictive model
 
