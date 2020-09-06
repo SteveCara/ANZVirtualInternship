@@ -43,8 +43,6 @@ Some highlights are below.
 ![image]
 
 
-This indicated...
-
 ## Predictive Analytics
 
 For this stage I was tasked with creating a predictive model to estimate salary information. this consisted of the following stages:
