@@ -16,65 +16,45 @@ Undertook exploratory data analysis obtain key insights from transaction sample 
 
 **Python Version:** 3.7
 
-**Packages:** pandas, numpy, matplotlib, seaborn
+**Packages:** pandas, numpy, matplotlib, seaborn, geopandas, calendar, scipy, folium
 
-**Project Basis:** Virtual Internship with Quantium
+**Project Basis:** Virtual Internship with ANZ
 
-## Data Preparation and Customer Analytics
+## Exploratory Data Analysis
 
  This consisted of the following stages:
 
-- Examined transaction data looking for inconsistencies, missing data and outliers
+- Examined transaction data looking for inconsistencies, missing data and found outliers by calculating Z-score
 
 - Cleaned the data using ordinal mapping and filling of missing values and outliers with statistical best fit values
 
-- Merged customer data with transaction data to create a unified sales dataset
+- Converted the dataset to a timeseries to facilitate time series analysis
 
-- Defined performance metrics and identified total sales, drivers of sales and highest performing products
+- Segmented the data into monthly, daily and hourly transaction volumes to facilitate analysis with different levels of granularity
 
-- Conducted a deep dive into customer segments to advise which segments should be targeted.  
-
-Some highlights are below.
-
-**Total Sales by Brand**
-![image](/images/chipsales.PNG)
-
-**Product Weights with Outliers**
-![image](/images/chipweights.PNG)
-
-**Sales Profile (All Stores) - Full Observation Period**
-![image](/images/salesprofile.PNG)
-
-This indicated that the brands with the highest sales were Doritos, Smiths and Kettle. This also revealed that sales were highest in December during the holiday season.
-
-## Experimentation and Uplift Testing
-
-I undertook experimentation and uplift testing to identify control stores, consisting of the following stages:
-
-- Determined total sales revenue and total number of customers on monthly and annual bases and number of transactions per customer
-
-- Normalised salaes values and created a metric to compare the sales performance different control stores to each of the trial stores
-
-- Control stores were selected based on their similarity to trial stores
-
-- The performance of trial stores was compared to the control stores to assess the impact of the new trial layout
+- Visualised transaction volumes to derive key insights about the data, including spatial density (using a folium heatmap)  
 
 Some highlights are below.
 
-**Comparison of Trial and Control Store Pair**
-![image](images/TrialStores.PNG)
+![image]
+![image}
+![image]
 
-**Trial Store Sales Perforance - Full Observation Period**
-![image](images/TrialStores2.PNG)
 
-**Trial Store vs Control Store Sales During Trial Period**
-![image](images/TrialStores3.PNG)
+This indicated...
 
- This revealed that the trial layout resulted in higher sales during the trial period.
- 
- ## Analytics and Commercial Application
- 
- In this stage, I synthesised the results from the previous stages to prepare a summary report to the client. The results informed strategy recommendations for the client. 
+## Predictive Analytics
+
+For this stage I was tasked with creating a predictive model to estimate salary information. this consisted of the following stages:
+
+- Undertook initial analysis to identify which features would be suitable for inclusion in a predictive model 
+
+- Explored correlations between annual salary and various customer attributes including age, bank balance, and average non-salary payment amount. 
+
+- Created and trained linear and decision-tree models and assessed model performance against the validation data set (decision-tree was the best performing model) using mean absolute error as the assessment criterion
+
+- Undertook hyperparameter tuning to optimise the decision-tree model and generate predictions for salaries (MAE ~ $14k AUD)
+
  
  
 
