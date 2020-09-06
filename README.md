@@ -38,9 +38,13 @@ Undertook exploratory data analysis obtain key insights from transaction sample 
 
 Some highlights are below.
 
-![image]
-![image}
-![image]
+![image](/images/transactionheatmap.PNG)
+
+![image](/images/correlation.PNG)
+
+![image](/images/dailytra.PNG)
+
+![image](/images/hourlytra.PNG)
 
 
 ## Predictive Analytics
@@ -57,13 +61,13 @@ For this stage I was tasked with creating a predictive model to estimate salary 
 
 Some highlights are below.
 
-![image]
-![image}
-![image]
+![image](/images/salheatmap.PNG)
+![image](/images/salboxplot.PNG)
+![image](/images/datatiles.PNG)
 
 ## Reporting
 
-I created a presentation for the programme manager which synthesised the insights that were obtained from the analysis and predictive model. 
+I created a presentation for the programme manager which synthesised the insights from the analysis and predictive model. 
  
 
 
