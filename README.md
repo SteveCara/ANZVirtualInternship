@@ -1,15 +1,16 @@
-# ANZVirtualInternshipL Project Overview
-Undertook exploratory data analysis obtain key insights from transaction data for a major bank. Created linear regression and decision-tree models to predict salaries. The generated predictions were 50% more accurate than the decision tree used in the ANZ model solution. 
+# ANZVirtualInternship: Project Overview
 
-- Undertook data cleaning, transformation and preparation of a large sample dataset from a major retailer
+Undertook exploratory data analysis obtain key insights from transaction sample data for Asutralia and New Zealand Banking Group (ANZ). Created linear regression and decision-tree models to predict salaries. The generated predictions were 50% more accurate than the decision tree used in the ANZ model solution. 
 
-- Carried out customer analytics to derive insights into customer spending behaviour and high performing products
+- Undertook exploratory data analysis to derive insights from sample transaction data for Australia and New Zealand Banking Group (ANZ)
 
-- Developed a strategy for the spending manager to implement, which would optimise slaes for specific product categories 
+- Completed data segmentation and visualisation to show the relationships between different features 
 
-- Created a measure to compare different control stores against stores which had recently trialled new layouts
+- Explored the correlation between different customer attributes to identify suitable metrics to be included in a predictive model
 
-- Used the most suitable control store to benchark performance and used performance analytics to assess the impact of new layouts in trial stores
+- Created linear regression and decision-tree models to predict salaries.
+
+- Generated predictions for submission to ANZ. The model was able to generate predictions which were 50% more accurate than the decision tree used in the ANZ model solution.
 
 ## Resources
 
