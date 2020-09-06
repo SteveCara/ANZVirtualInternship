@@ -55,7 +55,9 @@ For this stage I was tasked with creating a predictive model to estimate salary 
 
 - Undertook hyperparameter tuning to optimise the decision-tree model and generate predictions for salaries (MAE ~ $14k AUD)
 
- 
+## Reporting
+
+I created a presentation for the programme manager which synthesised the insights that were obtained from the analysis and predictive model. 
  
 
 
